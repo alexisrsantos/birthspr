@@ -1,2 +1,2 @@
-# birthspr
-Births for Puerto Rico 2000-2018
+# Births in Puerto Rico - emphasis in Hurricane Maria
+![Rplot02.png]
