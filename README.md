@@ -1,2 +1,2 @@
 # Births in Puerto Rico - emphasis in Hurricane Maria
-[Rplot02.png]
+![Figure](Rplot02.png)
